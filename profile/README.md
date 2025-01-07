@@ -107,8 +107,6 @@ Why **T-rex**? Because, like the mighty dinosaur, we aim to leave a **big impact
 
 ---
 
-### 📬 Get in Touch
-
 Want to chat or collaborate with us? Reach out through the following channels:
 
 - **Email**: [trexroars0@gmail.com](mailto:trexroars0@gmail.com)
