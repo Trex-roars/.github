@@ -18,13 +18,13 @@ At T-rex, we believe in **building cool things**, **making things better**, and 
 |:---------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
 | **GitHub**: [@Adityaadpandey](https://github.com/Adityaadpandey) | Passionate about building scalable applications using TypeScript and exploring machine learning. |
 
-| <img src="https://avatars.githubusercontent.com/u/181403091?v=4" width="100" height="100" style="border-radius: 50%;" />   | **@anshkumar2311**: Frontend Developer, Python Expert                              |
-|:---------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| **GitHub**: [@anshkumar2311](https://github.com/anshkumar2311)   | Focused on crafting beautiful user interfaces with React and using Python for backend solutions. |
-
 | <img src="https://avatars.githubusercontent.com/u/177600914?v=4" width="100" height="100" style="border-radius: 50%;" />  | **@Umyal06dxt**: Web Developer, UI/UX Designer                                     |
 |:---------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| **GitHub**: [@Umyal06dxt](https://github.com/Umyal06dxt)         | Skilled in designing intuitive user experiences and building modern web applications. |
+| **GitHub**: [@Umyal06dxt](https://github.com/Umyal06dxt)         | Skilled in designing intuitive user experiences and building modern web applications.            |
+
+| <img src="https://avatars.githubusercontent.com/u/70557438?v=4" width="100" height="100" style="border-radius: 50%;" />  | **@rudraksha007**: Web Developer                                     |
+|:---------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+| **GitHub**: [@rudraksha007](https://github.com/rudraksha007)         | Skilled in designing intuitive user experiences and building modern web applications.        |
 
 ---
 
