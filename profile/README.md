@@ -2,6 +2,7 @@
 
 Welcome to **T-rex**, where innovation meets creativity! We are a passionate team of developers who love to build creative and scalable solutions using **TypeScript (TS)** and **Python (PY)**. Driven by curiosity, a thirst for knowledge, and a desire to solve real-world problems, we push the boundaries of what’s possible in technology.
 
+<!--
 ## 🚀 About T-rex
 
 **T-rex** is a dynamic team of 3 talented individuals, each bringing unique skills and a shared love for coding. Our passion lies in **TypeScript** for front-end and full-stack applications and **Python** for back-end development, data science, automation, and machine learning.
@@ -116,3 +117,4 @@ Want to chat or collaborate with us? Reach out through the following channels:
 ---
 
 Let’s keep building and breaking things! 💥
+-->
