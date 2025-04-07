@@ -1,4 +1,4 @@
-# **T-rex - Innovators of Code** 🦖
+# **NeuroQuants - Innovators of Code** 🦖
 
 Welcome to **T-rex**, where innovation meets creativity! We are a passionate team of developers who love to build creative and scalable solutions using **TypeScript (TS)** and **Python (PY)**. Driven by curiosity, a thirst for knowledge, and a desire to solve real-world problems, we push the boundaries of what’s possible in technology.
 
